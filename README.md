@@ -12,7 +12,7 @@
     
    ✅​ I recently built
    
-   - A team project with (...), you can check it out here [CUB3D](). It's a 3D game based on a 2D map , implemented using the Raycasting technique 🕹️​. Exactely like [Wolfenstein 3D](https://wolfenstein.fandom.com/wiki/Wolfenstein_3D)
+   - A team project with (...), you can check it out here [CUB3D](https://github.com/giuliavigano/CUB3D). It's a 3D game based on a 2D map , implemented using the Raycasting technique 🕹️​. Exactely like [Wolfenstein 3D](https://wolfenstein.fandom.com/wiki/Wolfenstein_3D)
 
 👩🏽‍🏫​ I’m currently learning:
 
