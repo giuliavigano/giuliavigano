@@ -2,9 +2,9 @@
 
   🙇🏽‍♀️​ About me:
 
-  I'm currently studying at 42 Florence, an innovative programming school ➡️ [​👩🏽‍💻​](https://42firenze.it/).
+  I'm a software developer from 42 Florence, an innovative programming school ➡️ [​👩🏽‍💻​](https://42firenze.it/).
   I'm a huge fan of C but Python taught me how to relax 🧘🏽‍♀️​. When i'm not building projects you can find me
-  surfing 🏄‍♀️​ , at the theater putting on the next play 🎭​ or planning and supporting this student association [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦𝅾]() 🙋🏽‍♀️​
+  surfing 🏄‍♀️​ , at the theater putting on the next play 🎭​ or planning and supporting this student association "Generatio PRS" 🙋🏽‍♀️​
   
   ✔️​ I’m currently working on
   
