@@ -8,7 +8,7 @@
   
   ✔️​ I’m currently working on
   
-  - Some cool projects in C++, check them out here [CPP](). Trying to master Object-oriented programming (OOP) 😎​ )
+  - Some cool projects in C++, check them out here [CPP](https://github.com/giuliavigano/Cplus). Trying to master Object-oriented programming (OOP) 😎​ )
     
    ✅​ I recently built
    
