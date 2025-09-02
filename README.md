@@ -3,8 +3,8 @@
   🙇🏽‍♀️​ About me:
 
   I'm a software developer from 42 Florence, an innovative programming school ➡️ [​👩🏽‍💻​](https://42firenze.it/).
-  I'm a huge fan of C but Python taught me how to relax 🧘🏽‍♀️​. When i'm not building projects you can find me
-  surfing 🏄‍♀️​ , at the theater putting on the next play 🎭​ or planning and supporting this student association "Generatio PRS" 🙋🏽‍♀️​
+  I'm a huge fan of C/C++ but I appreciate the way I can express my creativity in Python🧘🏽‍♀️​. When i'm not building projects you can find me
+  surfing 🏄‍♀️​ , at the theater putting on the next play 🎭​ or planning and supporting this student association [Generatio PRS](https://www.instagram.com/genprs/) 🙋🏽‍♀️​
   
   ✔️​ I’m currently working on
   
@@ -17,6 +17,6 @@
 👩🏽‍🏫​ I’m currently learning:
 
   - C++
-  - Python , you can find some beginning projects here [Python]()
+  - Python , you can find some beginning projects here [Python](https://github.com/giuliavigano/Python/tree/main/Python%20Projects)
   - [🇫🇷](https://it.duolingo.com/learn)
 
