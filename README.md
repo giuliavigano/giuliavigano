@@ -17,6 +17,7 @@
 👩🏽‍🏫​ I’m currently learning:
 
   - C++
-  - Python , you can find some beginning projects here [Python](https://github.com/giuliavigano/Python/tree/main/Python%20Projects)
+  - Python
+    - you can find some beginning projects here [Python](https://github.com/giuliavigano/Python/tree/main/Python%20Projects)
   - [🇫🇷](https://it.duolingo.com/learn)
 
