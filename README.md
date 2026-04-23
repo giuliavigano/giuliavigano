@@ -7,19 +7,16 @@
   surfing 🏄‍♀️​ , at the theater putting on the next play 🎭​ or planning and supporting this student association [Generatio PRS](https://www.instagram.com/genprs/) 🙋🏽‍♀️​
   
   ✔️​ I’m currently working on
-  
-  ​- My IRC (Internet Relay chat) Server in C++. A great project for understanding nexwork and system administration.
-  This is a group project that i've done with [ .... ], you can check it out here [Ft_irc](https://github.com/giuliavigano/Irc)
+    - Trascendence: the final team project of my course of study. I am working on the backand of the project using Typescript. You can check some work done here []
     
    ✅​ I recently built
-
-   - Some cool projects in C++, check them out here [CPP](https://github.com/giuliavigano/Cplus). Trying to master Object-oriented programming (OOP) 😎
-   - A team project with (...), you can check it out here [CUB3D](https://github.com/giuliavigano/CUB3D). It's a 3D game based on a 2D map , implemented using the Raycasting technique 🕹️​. Exactely like [Wolfenstein 3D](https://wolfenstein.fandom.com/wiki/Wolfenstein_3D)
+    - My IRC (Internet Relay chat) Server in C++. A great project for understanding nexwork and system administration. (This is a group project that i've done with [ .... ]) you can check it out here [Ft_irc](https://github.com/giuliavigano/Irc)
+    
+  - Some cool projects in C++. Check them out here [CPP](https://github.com/giuliavigano/Cplus). Trying to master Object-oriented programming (OOP) 😎
 
 👩🏽‍🏫​ I’m currently learning:
 
-  - C++
-  - Python
-    - you can find some beginning projects here [Python](https://github.com/giuliavigano/Python/tree/main/Python%20Projects)
+  - Typescript
+  - Python: you can find some beginning projects here [Python](https://github.com/giuliavigano/Python/tree/main/Python%20Projects)
   - [🇫🇷](https://it.duolingo.com/learn)
 
